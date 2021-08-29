@@ -8,6 +8,7 @@
   - [C](#c)
   - [C++](#c++)
   - [CoffeeScript](#coffeescript)
+  - [Elixir](#elixir)
   - [Elm](#elm)
   - [Go](#go)
   - [HTML](#html)
@@ -51,6 +52,10 @@
 ## CoffeeScript 
 
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
+
+## Elixir 
+
+- [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 
 ## Elm 
 
