@@ -130,6 +130,7 @@
 
 ## Nix 
 
+- [divnix/devos](https://github.com/divnix/devos) - NixOS Template
 - [xanderificnl/home](https://github.com/xanderificnl/home) - Home manager configuration
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 
@@ -197,6 +198,7 @@
 
 ## Rust 
 
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -246,6 +248,7 @@
 
 ## Shell 
 
+- [nrdxp/devos](https://github.com/nrdxp/devos) - NixOS template
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [smashedtoatoms/asdf-postgres](https://github.com/smashedtoatoms/asdf-postgres) - 
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
