@@ -36,6 +36,7 @@
   - [Starlark](#starlark)
   - [TypeScript](#typescript)
   - [Vue](#vue)
+  - [Zig](#zig)
 
 ## C 
 
@@ -79,6 +80,7 @@
 
 ## HTML 
 
+- [haukex/webperl](https://github.com/haukex/webperl) - Run Perl in the browser with WebPerl!
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 - [vmware-tanzu/carvel](https://github.com/vmware-tanzu/carvel) - Carvel provides a set of reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes. This repo contains information regarding the Carvel open-source community.
 - [estevanmaito/windmill-dashboard](https://github.com/estevanmaito/windmill-dashboard) - 📊 A multi theme, completely accessible, ready for production dashboard.
@@ -166,6 +168,7 @@
 
 ## Python 
 
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -199,6 +202,8 @@
 
 ## Rust 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
@@ -282,6 +287,10 @@
 ## Vue 
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
+
+## Zig 
+
+- [raulgrell/tetris](https://github.com/raulgrell/tetris) - A simple tetris clone written in zig programming language.
 
 
 ## License
