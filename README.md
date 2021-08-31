@@ -63,6 +63,7 @@
 
 ## Go 
 
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - [vmware-tanzu/carvel-vendir](https://github.com/vmware-tanzu/carvel-vendir) - Easy way to vendor portions of git repos, github releases, helm charts, docker image contents, etc. declaratively
