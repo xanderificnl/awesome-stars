@@ -80,6 +80,7 @@
 
 ## HTML 
 
+- [bennetthardwick/simple-dev-blog-zola-starter](https://github.com/bennetthardwick/simple-dev-blog-zola-starter) - A simple dev-blog theme for Zola.
 - [haukex/webperl](https://github.com/haukex/webperl) - Run Perl in the browser with WebPerl!
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 - [vmware-tanzu/carvel](https://github.com/vmware-tanzu/carvel) - Carvel provides a set of reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes. This repo contains information regarding the Carvel open-source community.
@@ -242,6 +243,8 @@
 
 ## SCSS 
 
+- [xypnox/xyblag-theme](https://github.com/xypnox/xyblag-theme) - xyBlag is a minimal, modern, responsive theme featuring dark mode, comments, categories, tags and pagination.
+- [codeandmedia/zola_easydocs_theme](https://github.com/codeandmedia/zola_easydocs_theme) - An easy way to create docs for your project
 - [pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
 
 ## SaltStack 
