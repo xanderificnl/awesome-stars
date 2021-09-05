@@ -7,7 +7,9 @@
 
   - [C](#c)
   - [C++](#c++)
+  - [CSS](#css)
   - [CoffeeScript](#coffeescript)
+  - [Crystal](#crystal)
   - [Elixir](#elixir)
   - [Elm](#elm)
   - [Go](#go)
@@ -16,6 +18,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [KakouneScript](#kakounescript)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Makefile](#makefile)
@@ -34,6 +37,7 @@
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Starlark](#starlark)
+  - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
   - [Vue](#vue)
@@ -41,6 +45,8 @@
 
 ## C 
 
+- [majek/fluxcapacitor](https://github.com/majek/fluxcapacitor) - The engine that powers DeLorean!
+- [ohler55/oj](https://github.com/ohler55/oj) - Optimized JSON
 - [mnishihan/dev-tld-resolver](https://github.com/mnishihan/dev-tld-resolver) - Simple top level domain (NSSwitch hosts) resolver for linux based development Environment
 - [yadifa/yadifa](https://github.com/yadifa/yadifa) - YADIFA is a lightweight authoritative Name Server with DNSSEC capabilities. Developed by the passionate people behind the .eu top-level domain, YADIFA has been built from scratch to face today’s DNS challenges, with no compromise on security, speed and stability, to offer a better and safer Internet experience.
 - [DomiStyle/docker-idrac6](https://github.com/DomiStyle/docker-idrac6) - iDRAC 6 web interface and VNC proxy
@@ -54,9 +60,19 @@
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 
+## CSS 
+
+- [rachelandrew/css-for-print](https://github.com/rachelandrew/css-for-print) - 
+
 ## CoffeeScript 
 
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
+
+## Crystal 
+
+- [celestinecr/celestine](https://github.com/celestinecr/celestine) - An SVG library written in Crystal. Can be used to make cool animations, as well as other kinds of uses.
+- [chances/wgpu-crystal](https://github.com/chances/wgpu-crystal) - Bindings to wgpu-native for the Crystal programming language
+- [mint-lang/mint](https://github.com/mint-lang/mint) - :leaves: A refreshing programming language for the front-end web.
 
 ## Elixir 
 
@@ -68,6 +84,7 @@
 
 ## Go 
 
+- [azer/yolo](https://github.com/azer/yolo) - File watcher with web UI.
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
@@ -104,6 +121,8 @@
 
 ## JavaScript 
 
+- [thomasballinger/dalsegno](https://github.com/thomasballinger/dalsegno) - Repeat from the sign
+- [Delapouite/kakoune-explain](https://github.com/Delapouite/kakoune-explain) - Translate kakoune keys into English commands
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [simonh1000/elm-webpack-starter](https://github.com/simonh1000/elm-webpack-starter) - Elm 0.19.1 + Webpack 5 with hot-reloading! (Includes Babel for port code; CI script)
@@ -119,6 +138,11 @@
 
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Python, and Java.
 
+## KakouneScript 
+
+- [occivink/kakoune-vertical-selection](https://github.com/occivink/kakoune-vertical-selection) - Select up and down lines that match the same pattern
+- [alexherbo2/auto-pairs.kak](https://github.com/alexherbo2/auto-pairs.kak) - Auto-pairing of characters for Kakoune
+
 ## Kotlin 
 
 - [klazuka/intellij-elm](https://github.com/klazuka/intellij-elm) - Elm language support for IntelliJ, WebStorm, PhpStorm and PyCharm (JetBrains)
@@ -126,6 +150,7 @@
 
 ## Lua 
 
+- [scalameta/nvim-metals](https://github.com/scalameta/nvim-metals) - A Metals plugin for Nvim
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
 - [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin
@@ -153,6 +178,15 @@
 
 ## Others 
 
+- [ircv3/ircv3-specifications](https://github.com/ircv3/ircv3-specifications) - IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html
+- [egajda/awesome-mint](https://github.com/egajda/awesome-mint) - A refreshing collection of awesome Mint libraries, tools, and software
+- [Delapouite/kakoune-buffers](https://github.com/Delapouite/kakoune-buffers) - Ease navigation between opened buffers
+- [danr/kakoune-easymotion](https://github.com/danr/kakoune-easymotion) - kakoune plugin for navigating like the easymotion vim mode
+- [Delapouite/kakoune-registers](https://github.com/Delapouite/kakoune-registers) - List the current content of registers
+- [enricozb/tabs.kak](https://github.com/enricozb/tabs.kak) - Kakoune buffers as tabs in the status line.
+- [andreyorst/fzf.kak](https://github.com/andreyorst/fzf.kak) - FZF  for Kakoune
+- [lePerdu/kakboard](https://github.com/lePerdu/kakboard) - Clipboard integration for Kakoune
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [facebookincubator/BOLT](https://github.com/facebookincubator/BOLT) - Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
@@ -179,6 +213,7 @@
 
 ## Python 
 
+- [thomasballinger/rlundo](https://github.com/thomasballinger/rlundo) - undo in any program that uses readline
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [facebookresearch/deit](https://github.com/facebookresearch/deit) - Official DeiT repository
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -195,6 +230,9 @@
 
 ## Ruby 
 
+- [jeremyevans/sequel](https://github.com/jeremyevans/sequel) - Sequel: The Database Toolkit for Ruby
+- [puma/puma](https://github.com/puma/puma) - A Ruby/Rack web server built for concurrency
+- [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail) - Track changes to your rails models
 - [jolmg/parsby](https://github.com/jolmg/parsby) - Parser combinator library for Ruby inspired by Haskell's Parsec
 - [AaronLasseigne/active_interaction](https://github.com/AaronLasseigne/active_interaction) - :briefcase: Manage application specific business logic.
 - [beflagrant/hotwire-debug](https://github.com/beflagrant/hotwire-debug) - 
@@ -216,6 +254,12 @@
 
 ## Rust 
 
+- [gfx-rs/wgpu-native](https://github.com/gfx-rs/wgpu-native) - Native WebGPU implementation based on wgpu-core
+- [pimpale/kak-preservecase](https://github.com/pimpale/kak-preservecase) - kak plugin to replace text while preserving case
+- [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
+- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+- [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -270,6 +314,7 @@
 
 ## Shell 
 
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [nrdxp/devos](https://github.com/nrdxp/devos) - NixOS template
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [smashedtoatoms/asdf-postgres](https://github.com/smashedtoatoms/asdf-postgres) - 
@@ -290,6 +335,10 @@
 ## Starlark 
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
+
+## TeX 
+
+- [dart-lang/language](https://github.com/dart-lang/language) - Design of the Dart language
 
 ## TypeScript 
 
